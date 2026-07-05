@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: Sistem Manajemen Koper Jemaah",
+  "description": "Sistem asisten operasional manajemen koper jemaah umrah/haji terintegrasi dengan Google Sheets, Google Drive, dan analisis gambar stiker koper menggunakan Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
